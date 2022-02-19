@@ -14,8 +14,8 @@
  
  <div>
   <a href="https://github.com/Igor-Matheus">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=emillyedu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyedu&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=Igor-Matheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Matheus&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
