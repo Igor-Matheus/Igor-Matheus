@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hello, world! I'm Igor Matheus <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-<!--
-**Igor-Matheus/Igor-Matheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience
 
-Here are some ideas to get you started:
+- [UFPB](https://www.ufpb.br) : Studying Computer Engineering at college (Feb 2020 - Present).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Extra curricular experience
+
+- I'm bilingual (Brazilian Portuguese and English).
+
+- 💻 I'm currently learning web development and data science.
+
+##
+ 
+ <div>
+  <a href="https://github.com/Igor-Matheus">
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=emillyedu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyedu&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Igor-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/_igor.matheus_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:igo.mat@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-A52A2A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
