@@ -1,4 +1,4 @@
-# Hello, world! I'm Igor Matheus <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+# Hello, world! I'm Igor Matheus 
 
 ### Experience
 
