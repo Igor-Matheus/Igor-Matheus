@@ -4,13 +4,13 @@
 
 ### Experience :
 
-- [UFPB](https://www.ufpb.br) : Studying Computer Engineering at college (Feb 2020 - Present).
+- [UFPB](https://www.ufpb.br) : Studying Computer Engineering at college (Feb 2020 - Present)
 
 ### Languages :
 
-- Brazilian Portuguese;
+- Brazilian Portuguese
 
-- English.
+- English
 
 ##
 
