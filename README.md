@@ -40,6 +40,6 @@
  ### Connect with me :
 <div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/igor-matheus-brito/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:igo.mat@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-A52A2A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:igor.medeirosbrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-A52A2A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_igor.matheus_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
