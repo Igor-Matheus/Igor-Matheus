@@ -4,7 +4,7 @@
 
 ### Experience :
 
-- [UFPB](https://www.ufpb.br) : Studying Computer Engineering at college (Feb 2020 - Present)
+- UNINTER : Studying Computer Science at college (Feb 2025 - Present)
 
 ### Languages :
 
@@ -27,16 +27,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-##
-
- <div>
-  <a href="https://github.com/Igor-Matheus">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=Igor-Matheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Matheus&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-  
- ##
 
  ### Connect with me :
 <div style="display: inline_block"> 
